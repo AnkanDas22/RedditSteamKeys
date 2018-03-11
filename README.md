@@ -5,10 +5,10 @@ Activation is automated, just make sure to login to Steam from your browser befo
 
 REQUIRED Python modules:
 
-praw
+    praw
 
-pyautogui
-
-PyAutoGUI might require other modules to run.
+    pyautogui
+    
+    PIL
 
 Contact me @RektAlter or ankandas2222@gmail.com for any queries regarding this script.
