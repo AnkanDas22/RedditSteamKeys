@@ -1,12 +1,14 @@
-# EZSteamSignup 1.0
-Easily create multiple Steam accounts at a go!
+# RedditSteamKeys 1.0
+Easily read Steam keys from all over Reddit or whichever subreddits you prefer.
 
-Fully compiled and built application executable!
+Activation is automated, just make sure to login to Steam from your browser before launching the script because otherwise it wouldn't be able to redeem the key.
 
-Just download ALL the files and run the application from dist\ezsteamsignup\ezsteamsignup.exe
+REQUIRED Python modules:
 
-Type in the non-Chrome Python application window to easily make new Steam accounts!
+praw
 
-After you're done, ALL the details of the created Steam accounts, i.e., Username, E-Mail Address and Password will be stored in a file called "steamaccountlist.txt" in C:/ local disk.
+pyautogui
 
-Contact me @RektAlter or ankandas2222@gmail.com for any queries regarding this project.
+PyAutoGUI might require other modules to run.
+
+Contact me @RektAlter or ankandas2222@gmail.com for any queries regarding this script.
